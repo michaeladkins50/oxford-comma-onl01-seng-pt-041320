@@ -2,6 +2,6 @@
 source "https://rubygems.org"
 
 # gem "rails"
-def oxford_comma(list)
-  return list.join
+def oxford_comma(array)
+  return array.join
 end
